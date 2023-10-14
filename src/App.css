@@ -10,6 +10,7 @@
   padding: 2rem;
   max-width: 470px;
   margin: auto;
+  margin-top: 1rem;
 }
 
 .container{
@@ -198,12 +199,12 @@
 @media only screen and (min-width: 350px){
   .input-header-name{
     margin-right: 120px;
-    font-size: small;
+    font-size: 15px;
   }
 
   .input-header-listname{
     margin-right: 30px;
-    font-size: small;
+    font-size: 15px;
   }
   
 }
